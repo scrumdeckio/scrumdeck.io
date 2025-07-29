@@ -1,3 +1,6 @@
+
+<img width="421" height="470" alt="scrumdeck_logo_github" src="https://github.com/user-attachments/assets/a77a93e0-882d-49a3-9b4b-9f9a0bbcae4d" />
+
 # 🃏 [ScrumDeck.io](https://scrumdeck.io)
 
 **Modern Planning Poker Web Application for Agile Teams**
